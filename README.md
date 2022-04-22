@@ -256,8 +256,8 @@ bash <(curl -s -L https://raw.githubusercontent.com/kt007007/KTMinerProxy/main/l
 
 支持的Linux
 
-* Ubuntu 64 18.04+
-* Centos 64 7+
+* Ubuntu 64 18.04 及以上
+* Centos 64 7  及以上
 
 <p id="windows"></p>
 
@@ -299,8 +299,8 @@ ___
 >>## 修改密码
 >>>安装完后请尽快前往设置页修改密码。
 >><span id="q6"></span>
->>## 启动时提示 dial tcp connection refused
->>>请将ktproxy.com添加至防火墙白名单中，这个域名提供了图表服务及认证
+>>
+>>>
 >><span id="q7"></span>
 >>## 关闭/删除端口
 >>><img src="./image/t11.png" alt="Logo">
@@ -318,9 +318,9 @@ ___
 >>>默认密码: admin123
 >><span id="q-10"></span>
 >>## 开发费用及算力损耗
->>>目前阶段保持万分之一，用来测试稳定性及流程。
+>>>目前阶段保持免费模式，用来测试稳定性及流程。
 >>>
->>>多种原因会造成算力损耗，检查以下项，不要什么屎盆子都往开发者头上扣
+>>>多种原因会造成算力损耗，检查以下项，
 >>>
 >>>观察矿池内延迟份额的比例，如果延迟率高于百分1请ping服务器检查延迟
 >>>
