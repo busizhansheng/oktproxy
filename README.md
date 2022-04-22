@@ -365,11 +365,6 @@ ___
 </p>
 
 
-
-# 联系我们
-
-电报: [https://t.me/+VK7ZOlKvcLljYjQ1](https://t.me/+VK7ZOlKvcLljYjQ1)
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
