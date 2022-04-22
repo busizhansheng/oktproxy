@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
 
-# KTMinerProxy
+# OKTProxy
 
 <img src="https://raw.githubusercontent.com/kt007007/KTMinerProxy/main/image/logo.png#gh-dark-mode-only" alt="Logo" width="200" height="200">
 
