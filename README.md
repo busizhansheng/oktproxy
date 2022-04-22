@@ -220,7 +220,7 @@ bash <(curl -s -L https://raw.githubusercontent.com/kt007007/KTMinerProxy/main/l
 ```
 ### 安装完成之后, 请立即修改登录账号、密码以及启动端口，防止被爆破。
 
-<img src="./image/t12.png" alt="Logo">
+
 
 支持的Linux
 
