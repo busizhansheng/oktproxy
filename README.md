@@ -28,35 +28,6 @@
     <ul>
         <li>
             <a href="#linux">Linux</a>
-            <ul>
-                <li>
-                    <a href="#linux">安装</a>
-                </li>
-                <li>
-                    <a href="#linux">更新</a>
-                </li>
-                <li>
-                    <a href="#linux">卸载</a>
-                </li>
-                <li>
-                    <a href="#linux">停止服务</a>
-                </li>
-                <li>
-                    <a href="#linux">启动服务</a>
-                </li>
-                <li>
-                    <a href="#linux">重启服务</a>
-                </li>
-                <li>
-                    <a href="#linux">开机启动</a>
-                </li>
-                <li>
-                    <a href="#linux">设置最大连接数</a>
-                </li>
-                <li>
-                    <a href="#linux">查看程序运行时日志</a>
-                </li>
-            </ul>
         </li>
         <li>
             <a href="#windows">Windows</a>
