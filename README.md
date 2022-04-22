@@ -5,21 +5,6 @@
 
 # OKTProxy
 
-<img src="https://raw.githubusercontent.com/kt007007/KTMinerProxy/main/image/logo.png#gh-dark-mode-only" alt="Logo" width="200" height="200">
-
-<img src="https://raw.githubusercontent.com/kt007007/KTMinerProxy/main/image/slogo.png#gh-light-mode-only" alt="Logo" width="200" height="200">
-
-  <!-- ![GitHub Light](https://raw.githubusercontent.com/kt007007/KTMinerProxy/main/image/logo.png#gh-dark-mode-only)
-
-  ![GitHub Dark](https://raw.githubusercontent.com/kt007007/KTMinerProxy/main/image/slogo.png#gh-light-mode-only) -->
-
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-<!-- ![Github stars](https://img.shields.io/github/stars/kt007007/KTMinerProxy.svg) -->
-
 
   <p align="center">
     <h2>:zap: 原创GO语言编写，矿池高效率转发。</h2>
