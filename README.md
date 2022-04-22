@@ -22,10 +22,10 @@
 
 
   <p align="center">
-    <h2>:zap: 原创GO语言编写，功能强大，性能强劲。</h2>
+    <h2>:zap: 原创GO语言编写，矿池高效率转发。</h2>
     <!-- <a href="https://kdocs.cn/l/slPG1q488Trc"><strong>帮助文档 »</strong></a> -->
     <a href="https://kdocs.cn/l/slPG1q488Trc"></a>
-    TG：<a href="https://t.me/+VK7ZOlKvcLljYjQ1">https://t.me/+VK7ZOlKvcLljYjQ1</a>
+    
   </p>
 </div>
 
@@ -254,17 +254,6 @@
 
 </p>
 
-# 软件预览
-
-<p id="preview"></p>
-<img src="./image/tinified/jt1.png" alt="Logo">
-<img src="./image/tinified/jt3.png" alt="Logo">
-<img src="./image/tinified/jt2.png" alt="Logo">
-<!-- <img src="./image/tinified/t5.png" alt="Logo"> -->
-<img src="./image/tinified/t6.png" alt="Logo">
-<img src="./image/tinified/t7.png" alt="Logo">
-<img src="./image/tinified/t8.png" alt="Logo">
-<img src="./image/tinified/t9.png" alt="Logo">
 
 <!-- GETTING STARTED -->
 <p id="install"></p>
