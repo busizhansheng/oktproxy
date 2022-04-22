@@ -8,8 +8,7 @@
 
   <p align="center">
     <h2>:zap: 原创GO语言编写，矿池高效率转发。</h2>
-    <!-- <a href="https://kdocs.cn/l/slPG1q488Trc"><strong>帮助文档 »</strong></a> -->
-    <a href="https://kdocs.cn/l/slPG1q488Trc"></a>
+  
     
   </p>
 </div>
