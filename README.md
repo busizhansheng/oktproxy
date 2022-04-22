@@ -87,9 +87,7 @@
         <li>
             <a href="#q5">修改密码</a>
         </li>
-        <li>
-            <a href="#q6">启动时提示 dial tcp connection refused</a>
-        </li>
+       
         <li>
             <a href="#q7">关闭/删除端口</a>
         </li>
