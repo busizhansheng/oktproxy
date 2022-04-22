@@ -337,14 +337,3 @@ ___
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-[contributors-shield]: https://img.shields.io/github/contributors/kt007007/KTMinerProxy.svg?style=for-the-badge
-[contributors-url]: https://github.com/kt007007/KTMinerProxy/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/kt007007/KTMinerProxy.svg?style=for-the-badge
-[forks-url]: https://github.com/kt007007/KTMinerProxy/network/members
-[stars-shield]: https://img.shields.io/github/stars/kt007007/KTMinerProxy.svg?style=for-the-badge
-[stars-url]: https://github.com/kt007007/KTMinerProxy/stargazers
-[issues-shield]: https://img.shields.io/github/issues/kt007007/KTMinerProxy.svg?style=for-the-badge
-[issues-url]: https://github.com/kt007007/KTMinerProxy/issues
-[license-shield]: https://img.shields.io/github/license/kt007007/KTMinerProxy.svg?style=for-the-badge
