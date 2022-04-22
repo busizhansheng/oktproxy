@@ -22,9 +22,7 @@
 <li>
     <a href="#gn">功能</a>
 </li>
-<li>
-    <a href="#preview">软件预览</a>
-</li>
+
 <li>
     <a href="#install">部署软件</a>
     <ul>
